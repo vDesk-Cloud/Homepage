@@ -15,7 +15,7 @@ use vDesk\Pages\Functions;
     For a list of further downloads, visit the releases page of the official <a target="_blank" href="https://www.github.com/vDesk-Cloud/vDesk/releases/">GitHub</a>-repository.
 </p>
 <ul class="Downloads">
-    <li>GitHub.com <a href="https://www.github.com/vDesk-Cloud/vDesk/releases/Setup.phar" download>Setup.phar</a></li>
+    <li>GitHub.com <a href="https://www.github.com/vDesk-Cloud/vDesk/releases/download/1.0.0/Setup.phar" download>Setup.phar</a></li>
     <li>vDesk.cloud <a href="<?= Functions::URL("Downloads", "Setup.phar") ?>" download>Setup.phar</a></li>
 </ul>
 <hr>
